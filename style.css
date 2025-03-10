@@ -1,0 +1,10 @@
+ body {
+            font-family: 'Lora', serif;
+            font-style: italic;
+            text-align: center;
+            margin-top: 300px;
+        }
+        button{
+            font-family: 'Lora', serif;
+            font-size: 16px;
+        }
